@@ -1,0 +1,13 @@
+<package>
+  <description brief="python-stream-analyser">
+  Simple python test framework, that reads data from an sqlite db and forwards it to implemented experiments 
+  </description>
+  <author>Thomas Roehr/thomas.roehr@dfki.de</author>
+  <license></license>
+  <url>http://</url>
+  <logo>http://</logo>
+  <versioncontrol type="git" url="git://spacegit.dfki.uni-bremen.de/rimres/python-stream-analyser" />
+  <export>
+    <cpp cflags="" lflags="" />
+  </export>
+</package>
